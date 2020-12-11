@@ -1,5 +1,3 @@
-# FoodOrderForm
-This my website
 <!DOCTYPE html>
 <html>
 <head>
